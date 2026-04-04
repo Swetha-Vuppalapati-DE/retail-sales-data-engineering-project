@@ -2,6 +2,9 @@
 
 End-to-end Azure Data Engineering project using ADF, ADLS, PySpark, Azure SQL, and Power BI
 
+Project by Swetha Vuppalapati
+
+
 
 # Retail Sales Data Engineering Project
 
